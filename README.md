@@ -4,3 +4,5 @@ blablabla
 # Project Setup
 blablabla
 
+# Project Info
+blablabla
