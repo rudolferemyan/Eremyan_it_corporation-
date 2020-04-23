@@ -1,1 +1,6 @@
-# Eremyan_it_corporation - forch and redolf
+# About
+blablabla 
+
+# Project Setup
+blablabla
+
