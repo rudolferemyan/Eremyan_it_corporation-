@@ -1,5 +1,5 @@
 def selection_sort(my_list):
-    for i in range(len(my_list)):#диапазон нашего цикла весь цикл
+    for i in range(len(my_list)):#диапазон нашего цикла весь весь массив
         min = i #число i будет считаться минимумом т. е. нулевой индекс далее будет меняться
         for j in range(i , len(my_list)): #j индексы чисел с которыми мы сравниваем i-ый индекс
             if my_list[j] < my_list[min]:
